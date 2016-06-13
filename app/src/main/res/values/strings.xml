@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GooglePlaces</string>
+    <string-array name="place_type">
+    <item>ATM</item>
+    <item>Food</item>
+    <item>Hospital</item>
+    <item>Bank</item>
+        <item>Gym</item>
+        <item>Hindu_temple</item>
+        <item>Police</item>
+        <item>Airport</item>
+</string-array>
+    <string-array name="radius">
+        <item>250</item>
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
+    </string-array>
+</resources>
